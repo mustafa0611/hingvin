@@ -1,0 +1,13 @@
+
+        // TODO: explain them later: und &&, oder ||
+        // TODO: spezial chars in String bei bringen;
+        // TODO: if else else if
+        // TODO: methoden
+        // TODO: switch
+        // TODO: while for
+        // TODO: exception handling.
+        // TODO: array
+        // TODO: objects
+        // TODO: pass by reference
+        // TODO: polymorphism
+        // TODO: IO operations
